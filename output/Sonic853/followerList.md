@@ -1,5 +1,7 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Sorakage033](https://github.com/Sorakage033)               | <a href="https://github.com/Sorakage033"><img src="https://github.com/Sorakage033.png" width=75px height=75px></a>               |          |
+| [LinuxJS](https://github.com/LinuxJS)                       | <a href="https://github.com/LinuxJS"><img src="https://github.com/LinuxJS.png" width=75px height=75px></a>                       |          |
 | [Pleniluner](https://github.com/Pleniluner)                 | <a href="https://github.com/Pleniluner"><img src="https://github.com/Pleniluner.png" width=75px height=75px></a>                 |          |
 | [ellalamas](https://github.com/ellalamas)                   | <a href="https://github.com/ellalamas"><img src="https://github.com/ellalamas.png" width=75px height=75px></a>                   |          |
 | [jaxfox87](https://github.com/jaxfox87)                     | <a href="https://github.com/jaxfox87"><img src="https://github.com/jaxfox87.png" width=75px height=75px></a>                     |          |
