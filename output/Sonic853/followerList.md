@@ -11,7 +11,6 @@
 | [Charles-Chrismann](https://github.com/Charles-Chrismann)   | <a href="https://github.com/Charles-Chrismann"><img src="https://github.com/Charles-Chrismann.png" width=75px height=75px></a>   |          |
 | [itounagi0116](https://github.com/itounagi0116)             | <a href="https://github.com/itounagi0116"><img src="https://github.com/itounagi0116.png" width=75px height=75px></a>             |          |
 | [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) | <a href="https://github.com/OfficialCodeVoyage"><img src="https://github.com/OfficialCodeVoyage.png" width=75px height=75px></a> |          |
-| [thisoverride](https://github.com/thisoverride)             | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>             |          |
 | [NayHtetKyaw](https://github.com/NayHtetKyaw)               | <a href="https://github.com/NayHtetKyaw"><img src="https://github.com/NayHtetKyaw.png" width=75px height=75px></a>               |          |
 | [johnisaway285](https://github.com/johnisaway285)           | <a href="https://github.com/johnisaway285"><img src="https://github.com/johnisaway285.png" width=75px height=75px></a>           |          |
 | [ghryshi](https://github.com/ghryshi)                       | <a href="https://github.com/ghryshi"><img src="https://github.com/ghryshi.png" width=75px height=75px></a>                       |          |
