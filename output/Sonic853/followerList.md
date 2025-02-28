@@ -41,7 +41,6 @@
 | [isfsbe](https://github.com/isfsbe)                         | <a href="https://github.com/isfsbe"><img src="https://github.com/isfsbe.png" width=75px height=75px></a>                         |          |
 | [mmyo456](https://github.com/mmyo456)                       | <a href="https://github.com/mmyo456"><img src="https://github.com/mmyo456.png" width=75px height=75px></a>                       |          |
 | [RealLanta](https://github.com/RealLanta)                   | <a href="https://github.com/RealLanta"><img src="https://github.com/RealLanta.png" width=75px height=75px></a>                   |          |
-| [0xN0x](https://github.com/0xN0x)                           | <a href="https://github.com/0xN0x"><img src="https://github.com/0xN0x.png" width=75px height=75px></a>                           |          |
 | [englianhu](https://github.com/englianhu)                   | <a href="https://github.com/englianhu"><img src="https://github.com/englianhu.png" width=75px height=75px></a>                   |          |
 | [WhatsYour-Problem](https://github.com/WhatsYour-Problem)   | <a href="https://github.com/WhatsYour-Problem"><img src="https://github.com/WhatsYour-Problem.png" width=75px height=75px></a>   |          |
 | [DreamStar1996](https://github.com/DreamStar1996)           | <a href="https://github.com/DreamStar1996"><img src="https://github.com/DreamStar1996.png" width=75px height=75px></a>           |          |
