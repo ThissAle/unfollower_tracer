@@ -1,6 +1,5 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
-| [devddine](https://github.com/devddine)                     | <a href="https://github.com/devddine"><img src="https://github.com/devddine.png" width=75px height=75px></a>                     |          |
 | [RoLingG](https://github.com/RoLingG)                       | <a href="https://github.com/RoLingG"><img src="https://github.com/RoLingG.png" width=75px height=75px></a>                       |          |
 | [Sorakage033](https://github.com/Sorakage033)               | <a href="https://github.com/Sorakage033"><img src="https://github.com/Sorakage033.png" width=75px height=75px></a>               |          |
 | [LinuxJS](https://github.com/LinuxJS)                       | <a href="https://github.com/LinuxJS"><img src="https://github.com/LinuxJS.png" width=75px height=75px></a>                       |          |
