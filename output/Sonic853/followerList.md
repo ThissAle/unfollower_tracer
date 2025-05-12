@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [joshcapilot34](https://github.com/joshcapilot34)           | <a href="https://github.com/joshcapilot34"><img src="https://github.com/joshcapilot34.png" width=75px height=75px></a>           |          |
 | [Andy-Paa](https://github.com/Andy-Paa)                     | <a href="https://github.com/Andy-Paa"><img src="https://github.com/Andy-Paa.png" width=75px height=75px></a>                     |          |
 | [xiaoming-D](https://github.com/xiaoming-D)                 | <a href="https://github.com/xiaoming-D"><img src="https://github.com/xiaoming-D.png" width=75px height=75px></a>                 |          |
 | [RoLingG](https://github.com/RoLingG)                       | <a href="https://github.com/RoLingG"><img src="https://github.com/RoLingG.png" width=75px height=75px></a>                       |          |
