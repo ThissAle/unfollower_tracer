@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [jjramon1699-ai](https://github.com/jjramon1699-ai)           | <a href="https://github.com/jjramon1699-ai"><img src="https://github.com/jjramon1699-ai.png" width=75px height=75px></a>           |          |
 | [filedonkey](https://github.com/filedonkey)                   | <a href="https://github.com/filedonkey"><img src="https://github.com/filedonkey.png" width=75px height=75px></a>                   |          |
 | [devddine](https://github.com/devddine)                       | <a href="https://github.com/devddine"><img src="https://github.com/devddine.png" width=75px height=75px></a>                       |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |

@@ -38,7 +38,6 @@
 | [Map987](https://github.com/Map987)                         | <a href="https://github.com/Map987"><img src="https://github.com/Map987.png" width=75px height=75px></a>                         |          |
 | [BlueMicro233](https://github.com/BlueMicro233)             | <a href="https://github.com/BlueMicro233"><img src="https://github.com/BlueMicro233.png" width=75px height=75px></a>             |          |
 | [TeemoKill](https://github.com/TeemoKill)                   | <a href="https://github.com/TeemoKill"><img src="https://github.com/TeemoKill.png" width=75px height=75px></a>                   |          |
-| [jjramon1699-ai](https://github.com/jjramon1699-ai)         | <a href="https://github.com/jjramon1699-ai"><img src="https://github.com/jjramon1699-ai.png" width=75px height=75px></a>         |          |
 | [house1025](https://github.com/house1025)                   | <a href="https://github.com/house1025"><img src="https://github.com/house1025.png" width=75px height=75px></a>                   |          |
 | [GreatPig](https://github.com/GreatPig)                     | <a href="https://github.com/GreatPig"><img src="https://github.com/GreatPig.png" width=75px height=75px></a>                     |          |
 | [jaglux12](https://github.com/jaglux12)                     | <a href="https://github.com/jaglux12"><img src="https://github.com/jaglux12.png" width=75px height=75px></a>                     |          |
