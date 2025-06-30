@@ -12,6 +12,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [ArshiaIlaty](https://github.com/ArshiaIlaty) | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a> |          |
+| GitHub Account                            | Avatar                                                                                                         | Remark   |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
+| [Nimakian0](https://github.com/Nimakian0) | <a href="https://github.com/Nimakian0"><img src="https://github.com/Nimakian0.png" width=75px height=75px></a> |          |

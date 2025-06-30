@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Nimakian0](https://github.com/Nimakian0)                   | <a href="https://github.com/Nimakian0"><img src="https://github.com/Nimakian0.png" width=75px height=75px></a>                   |          |
 | [ArshiaIlaty](https://github.com/ArshiaIlaty)               | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a>               |          |
 | [TiagoFerraz66](https://github.com/TiagoFerraz66)           | <a href="https://github.com/TiagoFerraz66"><img src="https://github.com/TiagoFerraz66.png" width=75px height=75px></a>           |          |
 | [joshcapilot34](https://github.com/joshcapilot34)           | <a href="https://github.com/joshcapilot34"><img src="https://github.com/joshcapilot34.png" width=75px height=75px></a>           |          |
