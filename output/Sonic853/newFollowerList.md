@@ -1,3 +1,4 @@
-| GitHub Account                            | Avatar                                                                                                         | Remark   |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
-| [Nimakian0](https://github.com/Nimakian0) | <a href="https://github.com/Nimakian0"><img src="https://github.com/Nimakian0.png" width=75px height=75px></a> |          |
+| GitHub Account                                | Avatar                                                                                                             | Remark   |
+|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
+| [helallao](https://github.com/helallao)       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>       |          |
+| [seckinyasar](https://github.com/seckinyasar) | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a> |          |

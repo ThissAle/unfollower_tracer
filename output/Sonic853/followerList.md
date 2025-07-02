@@ -1,5 +1,7 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [seckinyasar](https://github.com/seckinyasar)               | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>               |          |
+| [helallao](https://github.com/helallao)                     | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                     |          |
 | [Nimakian0](https://github.com/Nimakian0)                   | <a href="https://github.com/Nimakian0"><img src="https://github.com/Nimakian0.png" width=75px height=75px></a>                   |          |
 | [ArshiaIlaty](https://github.com/ArshiaIlaty)               | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a>               |          |
 | [TiagoFerraz66](https://github.com/TiagoFerraz66)           | <a href="https://github.com/TiagoFerraz66"><img src="https://github.com/TiagoFerraz66.png" width=75px height=75px></a>           |          |
