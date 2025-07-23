@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [oluiscabral](https://github.com/oluiscabral)                 | <a href="https://github.com/oluiscabral"><img src="https://github.com/oluiscabral.png" width=75px height=75px></a>                 |          |
 | [Nimakian0](https://github.com/Nimakian0)                     | <a href="https://github.com/Nimakian0"><img src="https://github.com/Nimakian0.png" width=75px height=75px></a>                     |          |
 | [jjramon1699-ai](https://github.com/jjramon1699-ai)           | <a href="https://github.com/jjramon1699-ai"><img src="https://github.com/jjramon1699-ai.png" width=75px height=75px></a>           |          |
 | [filedonkey](https://github.com/filedonkey)                   | <a href="https://github.com/filedonkey"><img src="https://github.com/filedonkey.png" width=75px height=75px></a>                   |          |
