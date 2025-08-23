@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [XiaomingX](https://github.com/XiaomingX)                   | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                   |          |
 | [ArshiaIlaty](https://github.com/ArshiaIlaty)               | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a>               |          |
 | [TiagoFerraz66](https://github.com/TiagoFerraz66)           | <a href="https://github.com/TiagoFerraz66"><img src="https://github.com/TiagoFerraz66.png" width=75px height=75px></a>           |          |
 | [joshcapilot34](https://github.com/joshcapilot34)           | <a href="https://github.com/joshcapilot34"><img src="https://github.com/joshcapilot34.png" width=75px height=75px></a>           |          |
