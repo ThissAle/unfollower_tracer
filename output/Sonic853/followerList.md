@@ -15,7 +15,6 @@
 | [1012796366](https://github.com/1012796366)                 | <a href="https://github.com/1012796366"><img src="https://github.com/1012796366.png" width=75px height=75px></a>                 |          |
 | [nholuongut](https://github.com/nholuongut)                 | <a href="https://github.com/nholuongut"><img src="https://github.com/nholuongut.png" width=75px height=75px></a>                 |          |
 | [systemannounce](https://github.com/systemannounce)         | <a href="https://github.com/systemannounce"><img src="https://github.com/systemannounce.png" width=75px height=75px></a>         |          |
-| [Charles-Chrismann](https://github.com/Charles-Chrismann)   | <a href="https://github.com/Charles-Chrismann"><img src="https://github.com/Charles-Chrismann.png" width=75px height=75px></a>   |          |
 | [itounagi0116](https://github.com/itounagi0116)             | <a href="https://github.com/itounagi0116"><img src="https://github.com/itounagi0116.png" width=75px height=75px></a>             |          |
 | [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) | <a href="https://github.com/OfficialCodeVoyage"><img src="https://github.com/OfficialCodeVoyage.png" width=75px height=75px></a> |          |
 | [NayHtetKyaw](https://github.com/NayHtetKyaw)               | <a href="https://github.com/NayHtetKyaw"><img src="https://github.com/NayHtetKyaw.png" width=75px height=75px></a>               |          |
