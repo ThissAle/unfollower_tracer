@@ -2,7 +2,6 @@
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
 | [Neubulae](https://github.com/Neubulae)                     | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                     |          |
 | [2659170494](https://github.com/2659170494)                 | <a href="https://github.com/2659170494"><img src="https://github.com/2659170494.png" width=75px height=75px></a>                 |          |
-| [XiaomingX](https://github.com/XiaomingX)                   | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                   |          |
 | [ArshiaIlaty](https://github.com/ArshiaIlaty)               | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a>               |          |
 | [TiagoFerraz66](https://github.com/TiagoFerraz66)           | <a href="https://github.com/TiagoFerraz66"><img src="https://github.com/TiagoFerraz66.png" width=75px height=75px></a>           |          |
 | [joshcapilot34](https://github.com/joshcapilot34)           | <a href="https://github.com/joshcapilot34"><img src="https://github.com/joshcapilot34.png" width=75px height=75px></a>           |          |
