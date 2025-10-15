@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [3D-Dev](https://github.com/3D-Dev)                           | <a href="https://github.com/3D-Dev"><img src="https://github.com/3D-Dev.png" width=75px height=75px></a>                           |          |
 | [XiaomingX](https://github.com/XiaomingX)                     | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                     |          |
 | [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
@@ -21,6 +22,7 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                          | Avatar                                                                                                       | Remark   |
-|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
-| [Neubulae](https://github.com/Neubulae) | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a> |          |
+| GitHub Account                                      | Avatar                                                                                                                   | Remark   |
+|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------|
+| [trinhminhtriet](https://github.com/trinhminhtriet) | <a href="https://github.com/trinhminhtriet"><img src="https://github.com/trinhminhtriet.png" width=75px height=75px></a> |          |
+| [procw](https://github.com/procw)                   | <a href="https://github.com/procw"><img src="https://github.com/procw.png" width=75px height=75px></a>                   |          |
