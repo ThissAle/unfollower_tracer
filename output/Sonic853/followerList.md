@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [XiaomingX](https://github.com/XiaomingX)                   | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                   |          |
 | [trinhminhtriet](https://github.com/trinhminhtriet)         | <a href="https://github.com/trinhminhtriet"><img src="https://github.com/trinhminhtriet.png" width=75px height=75px></a>         |          |
 | [Neubulae](https://github.com/Neubulae)                     | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                     |          |
 | [2659170494](https://github.com/2659170494)                 | <a href="https://github.com/2659170494"><img src="https://github.com/2659170494.png" width=75px height=75px></a>                 |          |

@@ -1,4 +1,3 @@
-| GitHub Account                                      | Avatar                                                                                                                   | Remark   |
-|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------|
-| [trinhminhtriet](https://github.com/trinhminhtriet) | <a href="https://github.com/trinhminhtriet"><img src="https://github.com/trinhminhtriet.png" width=75px height=75px></a> |          |
-| [procw](https://github.com/procw)                   | <a href="https://github.com/procw"><img src="https://github.com/procw.png" width=75px height=75px></a>                   |          |
+| GitHub Account                            | Avatar                                                                                                         | Remark   |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
+| [XiaomingX](https://github.com/XiaomingX) | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a> |          |
