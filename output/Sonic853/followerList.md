@@ -1,6 +1,5 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
-| [trinhminhtriet](https://github.com/trinhminhtriet)         | <a href="https://github.com/trinhminhtriet"><img src="https://github.com/trinhminhtriet.png" width=75px height=75px></a>         |          |
 | [seckinyasar](https://github.com/seckinyasar)               | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>               |          |
 | [helallao](https://github.com/helallao)                     | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                     |          |
 | [Neubulae](https://github.com/Neubulae)                     | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                     |          |
