@@ -1,3 +1,3 @@
-| GitHub Account                                          | Avatar                                                                                                                       | Remark   |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
-| [standardgalactic](https://github.com/standardgalactic) | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a> |          |
+| GitHub Account                              | Avatar                                                                                                           | Remark   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
+| [vanquish3r](https://github.com/vanquish3r) | <a href="https://github.com/vanquish3r"><img src="https://github.com/vanquish3r.png" width=75px height=75px></a> |          |
