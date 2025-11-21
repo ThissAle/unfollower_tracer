@@ -2,7 +2,6 @@
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
 | [vanquish3r](https://github.com/vanquish3r)                 | <a href="https://github.com/vanquish3r"><img src="https://github.com/vanquish3r.png" width=75px height=75px></a>                 |          |
 | [standardgalactic](https://github.com/standardgalactic)     | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a>     |          |
-| [XiaomingX](https://github.com/XiaomingX)                   | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                   |          |
 | [seckinyasar](https://github.com/seckinyasar)               | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>               |          |
 | [helallao](https://github.com/helallao)                     | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                     |          |
 | [Neubulae](https://github.com/Neubulae)                     | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                     |          |
