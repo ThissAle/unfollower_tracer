@@ -4,7 +4,6 @@
 | [S4IL21](https://github.com/S4IL21)                         | <a href="https://github.com/S4IL21"><img src="https://github.com/S4IL21.png" width=75px height=75px></a>                         |          |
 | [vanquish3r](https://github.com/vanquish3r)                 | <a href="https://github.com/vanquish3r"><img src="https://github.com/vanquish3r.png" width=75px height=75px></a>                 |          |
 | [standardgalactic](https://github.com/standardgalactic)     | <a href="https://github.com/standardgalactic"><img src="https://github.com/standardgalactic.png" width=75px height=75px></a>     |          |
-| [helallao](https://github.com/helallao)                     | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                     |          |
 | [Neubulae](https://github.com/Neubulae)                     | <a href="https://github.com/Neubulae"><img src="https://github.com/Neubulae.png" width=75px height=75px></a>                     |          |
 | [2659170494](https://github.com/2659170494)                 | <a href="https://github.com/2659170494"><img src="https://github.com/2659170494.png" width=75px height=75px></a>                 |          |
 | [ArshiaIlaty](https://github.com/ArshiaIlaty)               | <a href="https://github.com/ArshiaIlaty"><img src="https://github.com/ArshiaIlaty.png" width=75px height=75px></a>               |          |
