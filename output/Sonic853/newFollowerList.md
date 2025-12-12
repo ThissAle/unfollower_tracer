@@ -1,4 +1,3 @@
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [seckinyasar](https://github.com/seckinyasar) | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a> |          |
-| [helallao](https://github.com/helallao)       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>       |          |
+| GitHub Account                                  | Avatar                                                                                                               | Remark   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
+| [frieren-mage](https://github.com/frieren-mage) | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a> |          |
