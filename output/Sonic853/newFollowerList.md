@@ -1,3 +1,3 @@
-| GitHub Account                                  | Avatar                                                                                                               | Remark   |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
-| [frieren-mage](https://github.com/frieren-mage) | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a> |          |
+| GitHub Account                              | Avatar                                                                                                           | Remark   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
+| [turingcat0](https://github.com/turingcat0) | <a href="https://github.com/turingcat0"><img src="https://github.com/turingcat0.png" width=75px height=75px></a> |          |
