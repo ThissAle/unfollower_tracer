@@ -1,5 +1,6 @@
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [xiaoweiruby](https://github.com/xiaoweiruby)                 | <a href="https://github.com/xiaoweiruby"><img src="https://github.com/xiaoweiruby.png" width=75px height=75px></a>                 |          |
 | [frieren-mage](https://github.com/frieren-mage)               | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a>               |          |
 | [XiaomingX](https://github.com/XiaomingX)                     | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                     |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
