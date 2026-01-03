@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [XiaomingX](https://github.com/XiaomingX)                     | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                     |          |
 | [xiaoweiruby](https://github.com/xiaoweiruby)                 | <a href="https://github.com/xiaoweiruby"><img src="https://github.com/xiaoweiruby.png" width=75px height=75px></a>                 |          |
 | [frieren-mage](https://github.com/frieren-mage)               | <a href="https://github.com/frieren-mage"><img src="https://github.com/frieren-mage.png" width=75px height=75px></a>               |          |
 | [XiaomingX](https://github.com/XiaomingX)                     | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                     |          |
