@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [emilycodestar](https://github.com/emilycodestar)           | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a>           |          |
 | [Limzord](https://github.com/Limzord)                       | <a href="https://github.com/Limzord"><img src="https://github.com/Limzord.png" width=75px height=75px></a>                       |          |
 | [endersonwills-boop](https://github.com/endersonwills-boop) | <a href="https://github.com/endersonwills-boop"><img src="https://github.com/endersonwills-boop.png" width=75px height=75px></a> |          |
 | [Greenmilkvvv](https://github.com/Greenmilkvvv)             | <a href="https://github.com/Greenmilkvvv"><img src="https://github.com/Greenmilkvvv.png" width=75px height=75px></a>             |          |

@@ -1,3 +1,3 @@
-| GitHub Account                        | Avatar                                                                                                     | Remark   |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------|----------|
-| [Limzord](https://github.com/Limzord) | <a href="https://github.com/Limzord"><img src="https://github.com/Limzord.png" width=75px height=75px></a> |          |
+| GitHub Account                                    | Avatar                                                                                                                 | Remark   |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
+| [emilycodestar](https://github.com/emilycodestar) | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a> |          |
