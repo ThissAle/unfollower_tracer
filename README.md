@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [endersonwills-boop](https://github.com/endersonwills-boop)   | <a href="https://github.com/endersonwills-boop"><img src="https://github.com/endersonwills-boop.png" width=75px height=75px></a>   |          |
 | [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
 | [XiaomingX](https://github.com/XiaomingX)                     | <a href="https://github.com/XiaomingX"><img src="https://github.com/XiaomingX.png" width=75px height=75px></a>                     |          |
@@ -34,6 +35,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                                    | Avatar                                                                                                                 | Remark   |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
-| [LuoTianOrange](https://github.com/LuoTianOrange) | <a href="https://github.com/LuoTianOrange"><img src="https://github.com/LuoTianOrange.png" width=75px height=75px></a> |          |
+| GitHub Account                                  | Avatar                                                                                                               | Remark   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
+| [mrtobivr2020](https://github.com/mrtobivr2020) | <a href="https://github.com/mrtobivr2020"><img src="https://github.com/mrtobivr2020.png" width=75px height=75px></a> |          |
