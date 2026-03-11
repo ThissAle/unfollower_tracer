@@ -176,7 +176,7 @@
 | [zekexiao](https://github.com/zekexiao)                     | <a href="https://github.com/zekexiao"><img src="https://github.com/zekexiao.png" width=75px height=75px></a>                     |          |
 | [kaaass](https://github.com/kaaass)                         | <a href="https://github.com/kaaass"><img src="https://github.com/kaaass.png" width=75px height=75px></a>                         |          |
 | [hellodigua](https://github.com/hellodigua)                 | <a href="https://github.com/hellodigua"><img src="https://github.com/hellodigua.png" width=75px height=75px></a>                 |          |
-| [Mtora](https://github.com/Mtora)                           | <a href="https://github.com/Mtora"><img src="https://github.com/Mtora.png" width=75px height=75px></a>                           |          |
+| [pumpdude](https://github.com/pumpdude)                     | <a href="https://github.com/pumpdude"><img src="https://github.com/pumpdude.png" width=75px height=75px></a>                     |          |
 | [CDog34](https://github.com/CDog34)                         | <a href="https://github.com/CDog34"><img src="https://github.com/CDog34.png" width=75px height=75px></a>                         |          |
 | [uangunai](https://github.com/uangunai)                     | <a href="https://github.com/uangunai"><img src="https://github.com/uangunai.png" width=75px height=75px></a>                     |          |
 | [lwl12](https://github.com/lwl12)                           | <a href="https://github.com/lwl12"><img src="https://github.com/lwl12.png" width=75px height=75px></a>                           |          |
