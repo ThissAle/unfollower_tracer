@@ -63,7 +63,6 @@
 | [DreamStar1996](https://github.com/DreamStar1996)           | <a href="https://github.com/DreamStar1996"><img src="https://github.com/DreamStar1996.png" width=75px height=75px></a>           |          |
 | [saransh484](https://github.com/saransh484)                 | <a href="https://github.com/saransh484"><img src="https://github.com/saransh484.png" width=75px height=75px></a>                 |          |
 | [LuiScreaMed](https://github.com/LuiScreaMed)               | <a href="https://github.com/LuiScreaMed"><img src="https://github.com/LuiScreaMed.png" width=75px height=75px></a>               |          |
-| [TKMYing](https://github.com/TKMYing)                       | <a href="https://github.com/TKMYing"><img src="https://github.com/TKMYing.png" width=75px height=75px></a>                       |          |
 | [MAO486](https://github.com/MAO486)                         | <a href="https://github.com/MAO486"><img src="https://github.com/MAO486.png" width=75px height=75px></a>                         |          |
 | [Weidows](https://github.com/Weidows)                       | <a href="https://github.com/Weidows"><img src="https://github.com/Weidows.png" width=75px height=75px></a>                       |          |
 | [DSHUGUI](https://github.com/DSHUGUI)                       | <a href="https://github.com/DSHUGUI"><img src="https://github.com/DSHUGUI.png" width=75px height=75px></a>                       |          |
