@@ -1,3 +1,3 @@
-| GitHub Account                                          | Avatar                                                                                                                       | Remark   |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
-| [potentialdev-web](https://github.com/potentialdev-web) | <a href="https://github.com/potentialdev-web"><img src="https://github.com/potentialdev-web.png" width=75px height=75px></a> |          |
+| GitHub Account                          | Avatar                                                                                                       | Remark   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
+| [rin0chan](https://github.com/rin0chan) | <a href="https://github.com/rin0chan"><img src="https://github.com/rin0chan.png" width=75px height=75px></a> |          |

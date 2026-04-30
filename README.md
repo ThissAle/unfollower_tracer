@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [whitescent](https://github.com/whitescent)                   | <a href="https://github.com/whitescent"><img src="https://github.com/whitescent.png" width=75px height=75px></a>                   |          |
 | [TKMYing](https://github.com/TKMYing)                         | <a href="https://github.com/TKMYing"><img src="https://github.com/TKMYing.png" width=75px height=75px></a>                         |          |
 | [Mtora](https://github.com/Mtora)                             | <a href="https://github.com/Mtora"><img src="https://github.com/Mtora.png" width=75px height=75px></a>                             |          |
 | [endersonwills-boop](https://github.com/endersonwills-boop)   | <a href="https://github.com/endersonwills-boop"><img src="https://github.com/endersonwills-boop.png" width=75px height=75px></a>   |          |
@@ -37,6 +38,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                                          | Avatar                                                                                                                       | Remark   |
-|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------|
-| [potentialdev-web](https://github.com/potentialdev-web) | <a href="https://github.com/potentialdev-web"><img src="https://github.com/potentialdev-web.png" width=75px height=75px></a> |          |
+| GitHub Account                          | Avatar                                                                                                       | Remark   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
+| [rin0chan](https://github.com/rin0chan) | <a href="https://github.com/rin0chan"><img src="https://github.com/rin0chan.png" width=75px height=75px></a> |          |

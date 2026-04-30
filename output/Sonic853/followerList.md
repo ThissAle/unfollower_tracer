@@ -79,7 +79,7 @@
 | [wagayaluda](https://github.com/wagayaluda)                 | <a href="https://github.com/wagayaluda"><img src="https://github.com/wagayaluda.png" width=75px height=75px></a>                 |          |
 | [IDouble](https://github.com/IDouble)                       | <a href="https://github.com/IDouble"><img src="https://github.com/IDouble.png" width=75px height=75px></a>                       |          |
 | [ICE2302](https://github.com/ICE2302)                       | <a href="https://github.com/ICE2302"><img src="https://github.com/ICE2302.png" width=75px height=75px></a>                       |          |
-| [whitescent](https://github.com/whitescent)                 | <a href="https://github.com/whitescent"><img src="https://github.com/whitescent.png" width=75px height=75px></a>                 |          |
+| [rin0chan](https://github.com/rin0chan)                     | <a href="https://github.com/rin0chan"><img src="https://github.com/rin0chan.png" width=75px height=75px></a>                     |          |
 | [shenqimolisha](https://github.com/shenqimolisha)           | <a href="https://github.com/shenqimolisha"><img src="https://github.com/shenqimolisha.png" width=75px height=75px></a>           |          |
 | [Misaka-L](https://github.com/Misaka-L)                     | <a href="https://github.com/Misaka-L"><img src="https://github.com/Misaka-L.png" width=75px height=75px></a>                     |          |
 | [maxiaoding](https://github.com/maxiaoding)                 | <a href="https://github.com/maxiaoding"><img src="https://github.com/maxiaoding.png" width=75px height=75px></a>                 |          |
