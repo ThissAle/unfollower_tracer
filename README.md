@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [giladfuchs](https://github.com/giladfuchs)                   | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a>                   |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
 | [whitescent](https://github.com/whitescent)                   | <a href="https://github.com/whitescent"><img src="https://github.com/whitescent.png" width=75px height=75px></a>                   |          |
 | [TKMYing](https://github.com/TKMYing)                         | <a href="https://github.com/TKMYing"><img src="https://github.com/TKMYing.png" width=75px height=75px></a>                         |          |
