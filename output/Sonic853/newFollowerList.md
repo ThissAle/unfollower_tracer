@@ -1,3 +1,3 @@
-| GitHub Account                                | Avatar                                                                                                             | Remark   |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------|
-| [seckinyasar](https://github.com/seckinyasar) | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a> |          |
+| GitHub Account                            | Avatar                                                                                                         | Remark   |
+|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
+| [StarZMira](https://github.com/StarZMira) | <a href="https://github.com/StarZMira"><img src="https://github.com/StarZMira.png" width=75px height=75px></a> |          |
