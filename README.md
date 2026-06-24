@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [NayHtetKyaw](https://github.com/NayHtetKyaw)                 | <a href="https://github.com/NayHtetKyaw"><img src="https://github.com/NayHtetKyaw.png" width=75px height=75px></a>                 |          |
 | [seckinyasar](https://github.com/seckinyasar)                 | <a href="https://github.com/seckinyasar"><img src="https://github.com/seckinyasar.png" width=75px height=75px></a>                 |          |
 | [giladfuchs](https://github.com/giladfuchs)                   | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a>                   |          |
 | [helallao](https://github.com/helallao)                       | <a href="https://github.com/helallao"><img src="https://github.com/helallao.png" width=75px height=75px></a>                       |          |
@@ -43,4 +44,4 @@
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
 | GitHub Account                            | Avatar                                                                                                         | Remark   |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
-| [StarZMira](https://github.com/StarZMira) | <a href="https://github.com/StarZMira"><img src="https://github.com/StarZMira.png" width=75px height=75px></a> |          |
+| [anascence](https://github.com/anascence) | <a href="https://github.com/anascence"><img src="https://github.com/anascence.png" width=75px height=75px></a> |          |
