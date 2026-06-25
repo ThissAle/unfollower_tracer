@@ -42,6 +42,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                            | Avatar                                                                                                         | Remark   |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
-| [anascence](https://github.com/anascence) | <a href="https://github.com/anascence"><img src="https://github.com/anascence.png" width=75px height=75px></a> |          |
+| GitHub Account                                        | Avatar                                                                                                                     | Remark   |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------|
+| [arshida1406-art](https://github.com/arshida1406-art) | <a href="https://github.com/arshida1406-art"><img src="https://github.com/arshida1406-art.png" width=75px height=75px></a> |          |
