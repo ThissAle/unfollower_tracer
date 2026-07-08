@@ -4,7 +4,6 @@
 | [StarZMira](https://github.com/StarZMira)                   | <a href="https://github.com/StarZMira"><img src="https://github.com/StarZMira.png" width=75px height=75px></a>                   |          |
 | [potentialdev-web](https://github.com/potentialdev-web)     | <a href="https://github.com/potentialdev-web"><img src="https://github.com/potentialdev-web.png" width=75px height=75px></a>     |          |
 | [LuoTianOrange](https://github.com/LuoTianOrange)           | <a href="https://github.com/LuoTianOrange"><img src="https://github.com/LuoTianOrange.png" width=75px height=75px></a>           |          |
-| [emilycodestar](https://github.com/emilycodestar)           | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a>           |          |
 | [Limzord](https://github.com/Limzord)                       | <a href="https://github.com/Limzord"><img src="https://github.com/Limzord.png" width=75px height=75px></a>                       |          |
 | [mrtobivr2020](https://github.com/mrtobivr2020)             | <a href="https://github.com/mrtobivr2020"><img src="https://github.com/mrtobivr2020.png" width=75px height=75px></a>             |          |
 | [Greenmilkvvv](https://github.com/Greenmilkvvv)             | <a href="https://github.com/Greenmilkvvv"><img src="https://github.com/Greenmilkvvv.png" width=75px height=75px></a>             |          |
