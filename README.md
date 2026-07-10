@@ -43,6 +43,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                        | Avatar                                                                                                     | Remark   |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------|----------|
-| [TKMYing](https://github.com/TKMYing) | <a href="https://github.com/TKMYing"><img src="https://github.com/TKMYing.png" width=75px height=75px></a> |          |
+| GitHub Account                    | Avatar                                                                                                 | Remark   |
+|-----------------------------------|--------------------------------------------------------------------------------------------------------|----------|
+| [Lyt99](https://github.com/Lyt99) | <a href="https://github.com/Lyt99"><img src="https://github.com/Lyt99.png" width=75px height=75px></a> |          |
