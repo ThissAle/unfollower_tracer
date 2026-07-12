@@ -76,7 +76,7 @@
 | [CHIboy4532](https://github.com/CHIboy4532)                 | <a href="https://github.com/CHIboy4532"><img src="https://github.com/CHIboy4532.png" width=75px height=75px></a>                 |          |
 | [kurikomoe](https://github.com/kurikomoe)                   | <a href="https://github.com/kurikomoe"><img src="https://github.com/kurikomoe.png" width=75px height=75px></a>                   |          |
 | [kok-s0s](https://github.com/kok-s0s)                       | <a href="https://github.com/kok-s0s"><img src="https://github.com/kok-s0s.png" width=75px height=75px></a>                       |          |
-| [hycinth22](https://github.com/hycinth22)                   | <a href="https://github.com/hycinth22"><img src="https://github.com/hycinth22.png" width=75px height=75px></a>                   |          |
+| [sylviax26](https://github.com/sylviax26)                   | <a href="https://github.com/sylviax26"><img src="https://github.com/sylviax26.png" width=75px height=75px></a>                   |          |
 | [sergiss](https://github.com/sergiss)                       | <a href="https://github.com/sergiss"><img src="https://github.com/sergiss.png" width=75px height=75px></a>                       |          |
 | [gizmo-ds](https://github.com/gizmo-ds)                     | <a href="https://github.com/gizmo-ds"><img src="https://github.com/gizmo-ds.png" width=75px height=75px></a>                     |          |
 | [wagayaluda](https://github.com/wagayaluda)                 | <a href="https://github.com/wagayaluda"><img src="https://github.com/wagayaluda.png" width=75px height=75px></a>                 |          |
