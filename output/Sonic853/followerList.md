@@ -31,7 +31,6 @@
 | [systemannounce](https://github.com/systemannounce)         | <a href="https://github.com/systemannounce"><img src="https://github.com/systemannounce.png" width=75px height=75px></a>         |          |
 | [itounagi0116](https://github.com/itounagi0116)             | <a href="https://github.com/itounagi0116"><img src="https://github.com/itounagi0116.png" width=75px height=75px></a>             |          |
 | [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage) | <a href="https://github.com/OfficialCodeVoyage"><img src="https://github.com/OfficialCodeVoyage.png" width=75px height=75px></a> |          |
-| [anascence](https://github.com/anascence)                   | <a href="https://github.com/anascence"><img src="https://github.com/anascence.png" width=75px height=75px></a>                   |          |
 | [johnisaway285](https://github.com/johnisaway285)           | <a href="https://github.com/johnisaway285"><img src="https://github.com/johnisaway285.png" width=75px height=75px></a>           |          |
 | [ghryshi](https://github.com/ghryshi)                       | <a href="https://github.com/ghryshi"><img src="https://github.com/ghryshi.png" width=75px height=75px></a>                       |          |
 | [FiveHair](https://github.com/FiveHair)                     | <a href="https://github.com/FiveHair"><img src="https://github.com/FiveHair.png" width=75px height=75px></a>                     |          |
