@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [rin0chan](https://github.com/rin0chan)                       | <a href="https://github.com/rin0chan"><img src="https://github.com/rin0chan.png" width=75px height=75px></a>                       |          |
 | [anascence](https://github.com/anascence)                     | <a href="https://github.com/anascence"><img src="https://github.com/anascence.png" width=75px height=75px></a>                     |          |
 | [hycinth22](https://github.com/hycinth22)                     | <a href="https://github.com/hycinth22"><img src="https://github.com/hycinth22.png" width=75px height=75px></a>                     |          |
 | [emilycodestar](https://github.com/emilycodestar)             | <a href="https://github.com/emilycodestar"><img src="https://github.com/emilycodestar.png" width=75px height=75px></a>             |          |
@@ -45,6 +46,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                            | Avatar                                                                                                         | Remark   |
-|-------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------|
-| [sylviax26](https://github.com/sylviax26) | <a href="https://github.com/sylviax26"><img src="https://github.com/sylviax26.png" width=75px height=75px></a> |          |
+| GitHub Account                          | Avatar                                                                                                       | Remark   |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------|
+| [totoneei](https://github.com/totoneei) | <a href="https://github.com/totoneei"><img src="https://github.com/totoneei.png" width=75px height=75px></a> |          |
