@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Yoseph-Yu-coder](https://github.com/Yoseph-Yu-coder)       | <a href="https://github.com/Yoseph-Yu-coder"><img src="https://github.com/Yoseph-Yu-coder.png" width=75px height=75px></a>       |          |
 | [Lyt99](https://github.com/Lyt99)                           | <a href="https://github.com/Lyt99"><img src="https://github.com/Lyt99.png" width=75px height=75px></a>                           |          |
 | [arshida1406-art](https://github.com/arshida1406-art)       | <a href="https://github.com/arshida1406-art"><img src="https://github.com/arshida1406-art.png" width=75px height=75px></a>       |          |
 | [StarZMira](https://github.com/StarZMira)                   | <a href="https://github.com/StarZMira"><img src="https://github.com/StarZMira.png" width=75px height=75px></a>                   |          |
@@ -121,7 +122,6 @@
 | [fumeboy](https://github.com/fumeboy)                       | <a href="https://github.com/fumeboy"><img src="https://github.com/fumeboy.png" width=75px height=75px></a>                       |          |
 | [haocity](https://github.com/haocity)                       | <a href="https://github.com/haocity"><img src="https://github.com/haocity.png" width=75px height=75px></a>                       |          |
 | [kurosann](https://github.com/kurosann)                     | <a href="https://github.com/kurosann"><img src="https://github.com/kurosann.png" width=75px height=75px></a>                     |          |
-| [BotBitmap](https://github.com/BotBitmap)                   | <a href="https://github.com/BotBitmap"><img src="https://github.com/BotBitmap.png" width=75px height=75px></a>                   |          |
 | [chenxuuu](https://github.com/chenxuuu)                     | <a href="https://github.com/chenxuuu"><img src="https://github.com/chenxuuu.png" width=75px height=75px></a>                     |          |
 | [KristallWang](https://github.com/KristallWang)             | <a href="https://github.com/KristallWang"><img src="https://github.com/KristallWang.png" width=75px height=75px></a>             |          |
 | [kagurazakasanae](https://github.com/kagurazakasanae)       | <a href="https://github.com/kagurazakasanae"><img src="https://github.com/kagurazakasanae.png" width=75px height=75px></a>       |          |
