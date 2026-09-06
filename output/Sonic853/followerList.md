@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [giladfuchs](https://github.com/giladfuchs)                 | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a>                 |          |
 | [Yoseph-Yu-coder](https://github.com/Yoseph-Yu-coder)       | <a href="https://github.com/Yoseph-Yu-coder"><img src="https://github.com/Yoseph-Yu-coder.png" width=75px height=75px></a>       |          |
 | [Lyt99](https://github.com/Lyt99)                           | <a href="https://github.com/Lyt99"><img src="https://github.com/Lyt99.png" width=75px height=75px></a>                           |          |
 | [arshida1406-art](https://github.com/arshida1406-art)       | <a href="https://github.com/arshida1406-art"><img src="https://github.com/arshida1406-art.png" width=75px height=75px></a>       |          |
