@@ -1,3 +1,4 @@
-| GitHub Account                              | Avatar                                                                                                           | Remark   |
-|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
-| [giladfuchs](https://github.com/giladfuchs) | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a> |          |
+| GitHub Account                                  | Avatar                                                                                                               | Remark   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
+| [qq18522](https://github.com/qq18522)           | <a href="https://github.com/qq18522"><img src="https://github.com/qq18522.png" width=75px height=75px></a>           |          |
+| [Australiaxjs](https://github.com/Australiaxjs) | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a> |          |
