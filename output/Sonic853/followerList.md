@@ -87,7 +87,6 @@
 | [shenqimolisha](https://github.com/shenqimolisha)           | <a href="https://github.com/shenqimolisha"><img src="https://github.com/shenqimolisha.png" width=75px height=75px></a>           |          |
 | [Misaka-L](https://github.com/Misaka-L)                     | <a href="https://github.com/Misaka-L"><img src="https://github.com/Misaka-L.png" width=75px height=75px></a>                     |          |
 | [maxiaoding](https://github.com/maxiaoding)                 | <a href="https://github.com/maxiaoding"><img src="https://github.com/maxiaoding.png" width=75px height=75px></a>                 |          |
-| [uraninite](https://github.com/uraninite)                   | <a href="https://github.com/uraninite"><img src="https://github.com/uraninite.png" width=75px height=75px></a>                   |          |
 | [45739847](https://github.com/45739847)                     | <a href="https://github.com/45739847"><img src="https://github.com/45739847.png" width=75px height=75px></a>                     |          |
 | [Mahi-Kanakdhar](https://github.com/Mahi-Kanakdhar)         | <a href="https://github.com/Mahi-Kanakdhar"><img src="https://github.com/Mahi-Kanakdhar.png" width=75px height=75px></a>         |          |
 | [Swarnika07](https://github.com/Swarnika07)                 | <a href="https://github.com/Swarnika07"><img src="https://github.com/Swarnika07.png" width=75px height=75px></a>                 |          |

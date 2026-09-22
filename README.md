@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [uraninite](https://github.com/uraninite)                     | <a href="https://github.com/uraninite"><img src="https://github.com/uraninite.png" width=75px height=75px></a>                     |          |
 | [giladfuchs](https://github.com/giladfuchs)                   | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a>                   |          |
 | [sylviax26](https://github.com/sylviax26)                     | <a href="https://github.com/sylviax26"><img src="https://github.com/sylviax26.png" width=75px height=75px></a>                     |          |
 | [BotBitmap](https://github.com/BotBitmap)                     | <a href="https://github.com/BotBitmap"><img src="https://github.com/BotBitmap.png" width=75px height=75px></a>                     |          |
