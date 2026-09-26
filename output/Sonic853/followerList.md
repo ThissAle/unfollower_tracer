@@ -45,7 +45,6 @@
 | [d34d633f](https://github.com/d34d633f)                     | <a href="https://github.com/d34d633f"><img src="https://github.com/d34d633f.png" width=75px height=75px></a>                     |          |
 | [LHT02](https://github.com/LHT02)                           | <a href="https://github.com/LHT02"><img src="https://github.com/LHT02.png" width=75px height=75px></a>                           |          |
 | [feccruz](https://github.com/feccruz)                       | <a href="https://github.com/feccruz"><img src="https://github.com/feccruz.png" width=75px height=75px></a>                       |          |
-| [toum120](https://github.com/toum120)                       | <a href="https://github.com/toum120"><img src="https://github.com/toum120.png" width=75px height=75px></a>                       |          |
 | [sisiqisi](https://github.com/sisiqisi)                     | <a href="https://github.com/sisiqisi"><img src="https://github.com/sisiqisi.png" width=75px height=75px></a>                     |          |
 | [BringBOOM](https://github.com/BringBOOM)                   | <a href="https://github.com/BringBOOM"><img src="https://github.com/BringBOOM.png" width=75px height=75px></a>                   |          |
 | [CatLiwa](https://github.com/CatLiwa)                       | <a href="https://github.com/CatLiwa"><img src="https://github.com/CatLiwa.png" width=75px height=75px></a>                       |          |
