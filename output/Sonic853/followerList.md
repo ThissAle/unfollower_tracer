@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Jiaxin2392](https://github.com/Jiaxin2392)                 | <a href="https://github.com/Jiaxin2392"><img src="https://github.com/Jiaxin2392.png" width=75px height=75px></a>                 |          |
 | [qq18522](https://github.com/qq18522)                       | <a href="https://github.com/qq18522"><img src="https://github.com/qq18522.png" width=75px height=75px></a>                       |          |
 | [Yoseph-Yu-coder](https://github.com/Yoseph-Yu-coder)       | <a href="https://github.com/Yoseph-Yu-coder"><img src="https://github.com/Yoseph-Yu-coder.png" width=75px height=75px></a>       |          |
 | [Lyt99](https://github.com/Lyt99)                           | <a href="https://github.com/Lyt99"><img src="https://github.com/Lyt99.png" width=75px height=75px></a>                           |          |

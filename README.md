@@ -51,7 +51,6 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                                  | Avatar                                                                                                               | Remark   |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
-| [qq18522](https://github.com/qq18522)           | <a href="https://github.com/qq18522"><img src="https://github.com/qq18522.png" width=75px height=75px></a>           |          |
-| [Australiaxjs](https://github.com/Australiaxjs) | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a> |          |
+| GitHub Account                              | Avatar                                                                                                           | Remark   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
+| [Jiaxin2392](https://github.com/Jiaxin2392) | <a href="https://github.com/Jiaxin2392"><img src="https://github.com/Jiaxin2392.png" width=75px height=75px></a> |          |

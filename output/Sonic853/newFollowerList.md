@@ -1,4 +1,3 @@
-| GitHub Account                                  | Avatar                                                                                                               | Remark   |
-|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
-| [qq18522](https://github.com/qq18522)           | <a href="https://github.com/qq18522"><img src="https://github.com/qq18522.png" width=75px height=75px></a>           |          |
-| [Australiaxjs](https://github.com/Australiaxjs) | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a> |          |
+| GitHub Account                              | Avatar                                                                                                           | Remark   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------|
+| [Jiaxin2392](https://github.com/Jiaxin2392) | <a href="https://github.com/Jiaxin2392"><img src="https://github.com/Jiaxin2392.png" width=75px height=75px></a> |          |
