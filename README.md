@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [0vm](https://github.com/0vm)                                 | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                                 |          |
 | [toum120](https://github.com/toum120)                         | <a href="https://github.com/toum120"><img src="https://github.com/toum120.png" width=75px height=75px></a>                         |          |
 | [uraninite](https://github.com/uraninite)                     | <a href="https://github.com/uraninite"><img src="https://github.com/uraninite.png" width=75px height=75px></a>                     |          |
 | [giladfuchs](https://github.com/giladfuchs)                   | <a href="https://github.com/giladfuchs"><img src="https://github.com/giladfuchs.png" width=75px height=75px></a>                   |          |

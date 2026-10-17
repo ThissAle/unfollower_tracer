@@ -1,7 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
 | [Sz8675213](https://github.com/Sz8675213)                   | <a href="https://github.com/Sz8675213"><img src="https://github.com/Sz8675213.png" width=75px height=75px></a>                   |          |
-| [0vm](https://github.com/0vm)                               | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                               |          |
 | [jackyxinli](https://github.com/jackyxinli)                 | <a href="https://github.com/jackyxinli"><img src="https://github.com/jackyxinli.png" width=75px height=75px></a>                 |          |
 | [qhong34004](https://github.com/qhong34004)                 | <a href="https://github.com/qhong34004"><img src="https://github.com/qhong34004.png" width=75px height=75px></a>                 |          |
 | [zengrong](https://github.com/zengrong)                     | <a href="https://github.com/zengrong"><img src="https://github.com/zengrong.png" width=75px height=75px></a>                     |          |
