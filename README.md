@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [Australiaxjs](https://github.com/Australiaxjs)               | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a>               |          |
 | [0vm](https://github.com/0vm)                                 | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                                 |          |
 | [toum120](https://github.com/toum120)                         | <a href="https://github.com/toum120"><img src="https://github.com/toum120.png" width=75px height=75px></a>                         |          |
 | [uraninite](https://github.com/uraninite)                     | <a href="https://github.com/uraninite"><img src="https://github.com/uraninite.png" width=75px height=75px></a>                     |          |
@@ -52,6 +53,7 @@
 | [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) | <a href="https://github.com/meliksahyorulmazlar"><img src="https://github.com/meliksahyorulmazlar.png" width=75px height=75px></a> |          |
 | [thisoverride](https://github.com/thisoverride)               | <a href="https://github.com/thisoverride"><img src="https://github.com/thisoverride.png" width=75px height=75px></a>               |          |
 | [hauntmuskie](https://github.com/hauntmuskie)                 | <a href="https://github.com/hauntmuskie"><img src="https://github.com/hauntmuskie.png" width=75px height=75px></a>                 |          |## Users who followed you yesterday:
-| GitHub Account                                    | Avatar                                                                                                                 | Remark   |
-|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------|
-| [xianglong90II](https://github.com/xianglong90II) | <a href="https://github.com/xianglong90II"><img src="https://github.com/xianglong90II.png" width=75px height=75px></a> |          |
+| GitHub Account                                        | Avatar                                                                                                                     | Remark   |
+|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|----------|
+| [PhotonSPK](https://github.com/PhotonSPK)             | <a href="https://github.com/PhotonSPK"><img src="https://github.com/PhotonSPK.png" width=75px height=75px></a>             |          |
+| [Mira-br0x400000](https://github.com/Mira-br0x400000) | <a href="https://github.com/Mira-br0x400000"><img src="https://github.com/Mira-br0x400000.png" width=75px height=75px></a> |          |

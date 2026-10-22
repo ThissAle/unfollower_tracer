@@ -1,5 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [PhotonSPK](https://github.com/PhotonSPK)                   | <a href="https://github.com/PhotonSPK"><img src="https://github.com/PhotonSPK.png" width=75px height=75px></a>                   |          |
 | [xianglong90II](https://github.com/xianglong90II)           | <a href="https://github.com/xianglong90II"><img src="https://github.com/xianglong90II.png" width=75px height=75px></a>           |          |
 | [Sz8675213](https://github.com/Sz8675213)                   | <a href="https://github.com/Sz8675213"><img src="https://github.com/Sz8675213.png" width=75px height=75px></a>                   |          |
 | [jackyxinli](https://github.com/jackyxinli)                 | <a href="https://github.com/jackyxinli"><img src="https://github.com/jackyxinli.png" width=75px height=75px></a>                 |          |
@@ -82,7 +83,7 @@
 | [CHIboy4532](https://github.com/CHIboy4532)                 | <a href="https://github.com/CHIboy4532"><img src="https://github.com/CHIboy4532.png" width=75px height=75px></a>                 |          |
 | [kurikomoe](https://github.com/kurikomoe)                   | <a href="https://github.com/kurikomoe"><img src="https://github.com/kurikomoe.png" width=75px height=75px></a>                   |          |
 | [kok-s0s](https://github.com/kok-s0s)                       | <a href="https://github.com/kok-s0s"><img src="https://github.com/kok-s0s.png" width=75px height=75px></a>                       |          |
-| [Australiaxjs](https://github.com/Australiaxjs)             | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a>             |          |
+| [Mira-br0x400000](https://github.com/Mira-br0x400000)       | <a href="https://github.com/Mira-br0x400000"><img src="https://github.com/Mira-br0x400000.png" width=75px height=75px></a>       |          |
 | [sergiss](https://github.com/sergiss)                       | <a href="https://github.com/sergiss"><img src="https://github.com/sergiss.png" width=75px height=75px></a>                       |          |
 | [gizmo-ds](https://github.com/gizmo-ds)                     | <a href="https://github.com/gizmo-ds"><img src="https://github.com/gizmo-ds.png" width=75px height=75px></a>                     |          |
 | [wagayaluda](https://github.com/wagayaluda)                 | <a href="https://github.com/wagayaluda"><img src="https://github.com/wagayaluda.png" width=75px height=75px></a>                 |          |
