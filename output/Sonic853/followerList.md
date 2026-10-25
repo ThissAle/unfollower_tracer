@@ -1,5 +1,7 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
+| [3594302](https://github.com/3594302)                       | <a href="https://github.com/3594302"><img src="https://github.com/3594302.png" width=75px height=75px></a>                       |          |
+| [flower-elf](https://github.com/flower-elf)                 | <a href="https://github.com/flower-elf"><img src="https://github.com/flower-elf.png" width=75px height=75px></a>                 |          |
 | [PhotonSPK](https://github.com/PhotonSPK)                   | <a href="https://github.com/PhotonSPK"><img src="https://github.com/PhotonSPK.png" width=75px height=75px></a>                   |          |
 | [xianglong90II](https://github.com/xianglong90II)           | <a href="https://github.com/xianglong90II"><img src="https://github.com/xianglong90II.png" width=75px height=75px></a>           |          |
 | [Sz8675213](https://github.com/Sz8675213)                   | <a href="https://github.com/Sz8675213"><img src="https://github.com/Sz8675213.png" width=75px height=75px></a>                   |          |
