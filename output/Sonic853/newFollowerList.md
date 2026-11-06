@@ -1,4 +1,3 @@
-| GitHub Account                                      | Avatar                                                                                                                   | Remark   |
-|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|----------|
-| [shanyinshuiyue](https://github.com/shanyinshuiyue) | <a href="https://github.com/shanyinshuiyue"><img src="https://github.com/shanyinshuiyue.png" width=75px height=75px></a> |          |
-| [xkaiya](https://github.com/xkaiya)                 | <a href="https://github.com/xkaiya"><img src="https://github.com/xkaiya.png" width=75px height=75px></a>                 |          |
+| GitHub Account                                  | Avatar                                                                                                               | Remark   |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------|
+| [Dvurechensky](https://github.com/Dvurechensky) | <a href="https://github.com/Dvurechensky"><img src="https://github.com/Dvurechensky.png" width=75px height=75px></a> |          |
