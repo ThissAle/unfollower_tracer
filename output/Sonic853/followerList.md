@@ -53,7 +53,6 @@
 | [UbiquitousRealm](https://github.com/UbiquitousRealm)       | <a href="https://github.com/UbiquitousRealm"><img src="https://github.com/UbiquitousRealm.png" width=75px height=75px></a>       |          |
 | [TZFC](https://github.com/TZFC)                             | <a href="https://github.com/TZFC"><img src="https://github.com/TZFC.png" width=75px height=75px></a>                             |          |
 | [cyril2007](https://github.com/cyril2007)                   | <a href="https://github.com/cyril2007"><img src="https://github.com/cyril2007.png" width=75px height=75px></a>                   |          |
-| [gui-ying233](https://github.com/gui-ying233)               | <a href="https://github.com/gui-ying233"><img src="https://github.com/gui-ying233.png" width=75px height=75px></a>               |          |
 | [Sunseti](https://github.com/Sunseti)                       | <a href="https://github.com/Sunseti"><img src="https://github.com/Sunseti.png" width=75px height=75px></a>                       |          |
 | [cassimahmedattia](https://github.com/cassimahmedattia)     | <a href="https://github.com/cassimahmedattia"><img src="https://github.com/cassimahmedattia.png" width=75px height=75px></a>     |          |
 | [d34d633f](https://github.com/d34d633f)                     | <a href="https://github.com/d34d633f"><img src="https://github.com/d34d633f.png" width=75px height=75px></a>                     |          |

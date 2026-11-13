@@ -2,6 +2,7 @@
 ## Users who unfollowed you:
 | GitHub Account                                                | Avatar                                                                                                                             | Remark   |
 |---------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|
+| [gui-ying233](https://github.com/gui-ying233)                 | <a href="https://github.com/gui-ying233"><img src="https://github.com/gui-ying233.png" width=75px height=75px></a>                 |          |
 | [0vm](https://github.com/0vm)                                 | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                                 |          |
 | [Australiaxjs](https://github.com/Australiaxjs)               | <a href="https://github.com/Australiaxjs"><img src="https://github.com/Australiaxjs.png" width=75px height=75px></a>               |          |
 | [0vm](https://github.com/0vm)                                 | <a href="https://github.com/0vm"><img src="https://github.com/0vm.png" width=75px height=75px></a>                                 |          |
