@@ -1,7 +1,6 @@
 | GitHub Account                                              | Avatar                                                                                                                           | Remark   |
 |-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------|
 | [LittleApple-fp16](https://github.com/LittleApple-fp16)     | <a href="https://github.com/LittleApple-fp16"><img src="https://github.com/LittleApple-fp16.png" width=75px height=75px></a>     |          |
-| [applecat88](https://github.com/applecat88)                 | <a href="https://github.com/applecat88"><img src="https://github.com/applecat88.png" width=75px height=75px></a>                 |          |
 | [xmtrockET](https://github.com/xmtrockET)                   | <a href="https://github.com/xmtrockET"><img src="https://github.com/xmtrockET.png" width=75px height=75px></a>                   |          |
 | [whoashish115](https://github.com/whoashish115)             | <a href="https://github.com/whoashish115"><img src="https://github.com/whoashish115.png" width=75px height=75px></a>             |          |
 | [Dvurechensky](https://github.com/Dvurechensky)             | <a href="https://github.com/Dvurechensky"><img src="https://github.com/Dvurechensky.png" width=75px height=75px></a>             |          |
